@@ -1,16 +1,20 @@
 
 <p align="center">
  <b>
- RusherHack 2.0.5 (1.20.4) 图形界面预览
- <img src ="https://github.com/Mercichan/MioClientTranslation-CN/blob/main/Banner.png?raw=true" width="100%" height="100%"/>
+  <img src="https://avatars.githubusercontent.com/u/179605003?v=4" width="10%" height="10%"/></a>
+ </br>
  Author |
- <a href="https://github.com/mercichan">MercyzzGaming</a>
+  <a href="https://github.com/mercichan">MercyzzGaming</a>
  </br>
  Join Our Discord |
- <a href="https://discord.gg/drhBp6Uv6n"><img src="https://i.pinimg.com/736x/c8/83/cb/c883cb55b591dc00ecdd30304a5ab52f.jpg" width="4%" height="4%"/></a>
+  <a href="https://discord.gg/drhBp6Uv6n"><img src="https://i.pinimg.com/736x/b5/84/b1/b584b1776f49b350c54e5172f9a1f102.jpg" width="5%" height="5%"/></a>
+ </br></br>
+ RusherHack 2.0.5 (1.20.4) 图形界面预览
+  <img src ="https://github.com/Mercichan/MioClientTranslation-CN/blob/main/Banner.png?raw=true" width="100%" height="100%"/>
+ 在 *mioclient.me* 花费 $20 购买 Mio =）
 </p>
 
-# 在 *mioclient.me* 花费 $20 购买 Mio =）
+
 > 打开UI的默认热键为 右Shift 输入指令的默认前缀为 ;
 
 > *本文介绍功能而非直译*
